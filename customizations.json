@@ -1,10 +1,17 @@
 [
   {
-    "discord": "123",
-    "shortId": "SHERIFF",
+    "discord": "https://i.imgur.com/UdFN2E3.png",
+    "shortId": "OWHN",
     "booster": true,
     "badges": [
-      "https://yourcdn.com/badge1.png"
-    ]
+      "https://i.imgur.com/UdFN2E3.png",
+      "https://i.imgur.com/2ZC5XyP.png",
+      "https://i.imgur.com/9rZQk7L.png"
+    ],
+    "gradient": {
+      "rot": "45deg",
+      "stops": ["#ff00ff", "#00eaff"],
+      "shadow": "0px 0px 10px rgba(255,0,255,0.7)"
+    }
   }
 ]
